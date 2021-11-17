@@ -1,4 +1,5 @@
 ## Hi 👋 I'm Shubham Kumar
+<h2 align="center">Hi 👋 I'm Shubham Kumar</h2>
 <h3 align="center">I'm a Developer from India ❤</h3>
 
 <!--

@@ -1,6 +1,6 @@
-## Hi 👋 I'm Shubham Kumar
-<h2 align="center">Hi 👋 I'm Shubham Kumar</h2>
-<h3 align="center">I'm a Developer from India ❤</h3>
+
+<h1 align="center">Hi 👋 I'm Shubham Kumar</h1>
+<h2 align="center">I'm a Developer from India ❤</h2>
 
 <!--
 **detonators/detonators** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

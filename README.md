@@ -21,10 +21,10 @@
 
 
 
-- 🔭 I’m currently working on ** Discord Bots. ** 
+- 🔭 I’m currently working on **Discord Bots** 
 - 🌱 I’m currently learning Front End Web Devlopment. 
 - 👯 I’m looking to collaborate on in any new inovative ideas.
-- 💬 Ask me about ** C++, Python, JavaScript, Crypto. **
+- 💬 Ask me about **C++, Python, JavaScript, Crypto**
 
 
 <!-- 

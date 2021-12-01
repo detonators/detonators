@@ -32,3 +32,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+## 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=detonators&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=detonators&theme=dark" width="45%" >
+
+<br>

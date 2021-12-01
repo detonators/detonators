@@ -21,13 +21,17 @@
 <!--
 **detonators/detonators** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on ** Discord Bots. **
+- 
+- 🌱 I’m currently learning Front End Web Devlopment.
+- 
+- 👯 I’m looking to collaborate on in any new inovative ideas.
+- 
+- 💬 Ask me about ** C++, Python, JavaScript, Crypto. **
+<!-- 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -44,3 +48,9 @@ Here are some ideas to get you started:
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=detonators&theme=dark" width="45%" >
 
 <br>
+
+
+
+## Reach Me Through
+[![ ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/shubham1603/)
+[![ ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:shubhamkumar4460@gmail.com)

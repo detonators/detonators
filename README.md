@@ -18,10 +18,7 @@
   <!-- <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Kotlin-lightblue.svg?style=for-the-badge" alt="detonators" /> </a>
   <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Flutter-lightblue.svg?style=for-the-badge" alt="detonators" /> </a>  -->
 </p>
-<!--
-**detonators/detonators** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: -->
 
 
 - 🔭 I’m currently working on ** Discord Bots. ** 

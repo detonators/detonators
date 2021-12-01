@@ -23,13 +23,13 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ** Discord Bots. **
-- 
-- 🌱 I’m currently learning Front End Web Devlopment.
-- 
+
+- 🔭 I’m currently working on ** Discord Bots. ** 
+- 🌱 I’m currently learning Front End Web Devlopment. 
 - 👯 I’m looking to collaborate on in any new inovative ideas.
-- 
 - 💬 Ask me about ** C++, Python, JavaScript, Crypto. **
+
+
 <!-- 
 
 - 🤔 I’m looking for help with ...

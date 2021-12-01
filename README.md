@@ -4,6 +4,20 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=detonators" alt="detonator" /> </p>
+
+
+
+
+
+<p align="left">
+  <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/C++-lightblue.svg?style=for-the-badge&logo=cplusplus" alt="detonators" /> </a>
+  <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/C-lightblue.svg?style=for-the-badge&logo=cplusplus" alt="detonators" /> </a>
+  <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Python-lightblue.svg?style=for-the-badge" alt="detonators" /> </a>
+ <!-- <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Java-lightblue.svg?style=for-the-badge" alt="detonators" /> </a>  -->
+  <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Javascript-lightblue.svg?style=for-the-badge" alt="detonators" /> </a>
+  <!-- <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Kotlin-lightblue.svg?style=for-the-badge" alt="detonators" /> </a>
+  <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Flutter-lightblue.svg?style=for-the-badge" alt="detonators" /> </a>  -->
+</p>
 <!--
 **detonators/detonators** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

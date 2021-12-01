@@ -2,6 +2,8 @@
 <h1 align="center">Hi👋 I'm Shubham Kumar</h1>
 <h2 align="center">I'm a Developer from India ❤</h2>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=detonators" alt="detonator" /> </p>
 <!--
 **detonators/detonators** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

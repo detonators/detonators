@@ -17,7 +17,7 @@
   <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Javascript-lightblue.svg?style=for-the-badge" alt="detonators" /> </a>
   <!-- <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Kotlin-lightblue.svg?style=for-the-badge" alt="detonators" /> </a>
   <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Flutter-lightblue.svg?style=for-the-badge" alt="detonators" /> </a>  -->
-</p>
+   </p>
 
 
 

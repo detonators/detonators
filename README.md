@@ -13,7 +13,7 @@
 
 <p align="left">
 <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/C++-lightblue.svg?style=for-the-badge&logo=cplusplus" alt="detonators" /> </a>
-<a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/C-lightblue.svg?style=for-the-badge&logo=cplusplus" alt="detonators" /> </a>
+<!-- <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/C-lightblue.svg?style=for-the-badge&logo=cplusplus" alt="detonators" /> </a> -->
 <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Python-lightblue.svg?style=for-the-badge" alt="detonators" /> </a>
   <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Java-lightblue.svg?style=for-the-badge" alt="detonators" /> </a> 
   <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Javascript-lightblue.svg?style=for-the-badge" alt="detonators" /> </a>

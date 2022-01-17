@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=detonators" alt="detonator" /> </p>
 
-
+## Reach Me Through
+[![ ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/shubham1603/)
+[![ ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:shubhamkumar4460@gmail.com)
 
 
 
@@ -13,7 +15,7 @@
 <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/C++-lightblue.svg?style=for-the-badge&logo=cplusplus" alt="detonators" /> </a>
 <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/C-lightblue.svg?style=for-the-badge&logo=cplusplus" alt="detonators" /> </a>
 <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Python-lightblue.svg?style=for-the-badge" alt="detonators" /> </a>
- <!-- <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Java-lightblue.svg?style=for-the-badge" alt="detonators" /> </a>  -->
+  <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Java-lightblue.svg?style=for-the-badge" alt="detonators" /> </a> 
   <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Javascript-lightblue.svg?style=for-the-badge" alt="detonators" /> </a>
   <!-- <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Kotlin-lightblue.svg?style=for-the-badge" alt="detonators" /> </a>
   <a href="https://github.com/detonators"> <img src="https://img.shields.io/badge/Flutter-lightblue.svg?style=for-the-badge" alt="detonators" /> </a>  -->
@@ -49,6 +51,4 @@
 
 
 
-## Reach Me Through
-[![ ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/shubham1603/)
-[![ ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:shubhamkumar4460@gmail.com)
+

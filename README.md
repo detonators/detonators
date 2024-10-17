@@ -42,9 +42,11 @@
 
 <a href="https://leetcode.com/u/detonator4460/"><img src="https://img.shields.io/badge/Leetcode-Link-ff69b4?style=for-the-badge"></a>
 <a href="https://codeforces.com/profile/detonator4460"><img src="https://img.shields.io/badge/Codeforces-Link-rgb(0%2C0%2C255)?style=for-the-badge"></a>
-<a href="https://atcoder.jp/users/detonator4460"><img src="https://img.shields.io/badge/Atcoder-Link-rgb(0%2C192%2C192)?style=for-the-badge"></a>
-<a href="https://www.codechef.com/users/detonator4460"><img src="https://img.shields.io/badge/Codechef-Link-yellow?style=for-the-badge"></a>
 <a href="https://www.hackerrank.com/profile/shubhamkumar4460"><img src="https://img.shields.io/badge/Hackerrank-Link-green?style=for-the-badge"></a>
+<a href="https://www.codechef.com/users/detonator4460"><img src="https://img.shields.io/badge/Codechef-Link-yellow?style=for-the-badge"></a>
+<a href="https://atcoder.jp/users/detonator4460"><img src="https://img.shields.io/badge/Atcoder-Link-rgb(0%2C192%2C192)?style=for-the-badge"></a>
+
+
 
 
 ## Academics
